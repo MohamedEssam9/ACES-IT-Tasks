@@ -1,0 +1,17 @@
+#Model
+{
+    background-color: black;
+    width: 270;
+    height: 100;
+}
+#oneButton
+{
+    background-color: blueviolet;
+    padding:12 25;
+    margin: 30;
+    
+}
+#forForm
+{
+    margin-top: 30;
+}
